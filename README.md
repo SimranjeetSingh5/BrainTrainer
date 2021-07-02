@@ -1,6 +1,7 @@
 # BrainTrainer
 
 • A time bound android app which is created to strengthen the arithmetic skills focused particularly on children.
+
 • Basic questionnaire which has one correct answer from four different options
 
 
